@@ -1,17 +1,17 @@
------------------------------------------------------
+------------------------------------------------------------
 Dataset        Type     |Train|/|Validation|       |Test|
-----------------------------------------------------
-SST-2       Sentiment            32                     1.8K
+-------------------------------------------------------------
+SST-2       Sentiment            32                 1.8K
 
-Yelp-2      Sentiment            32                      38K
+Yelp-2      Sentiment            32                 38K
 
-MR           Sentiment            32                      2K
+MR          Sentiment            32                 2K
 
-CR            Sentiment            32                      2K
+CR          Sentiment            32                 2K
 
-RTE               NLI                  32                      3K
+RTE            NLI               32                 3K
 
-QNLI          QA/NLI              32                     5.4K
+QNLI          QA/NLI             32                 5.4K
 
-MRPC      Paraphrase          32                     1.7K
------------------------------------------------------
+MRPC        Paraphrase           32                 1.7K
+-------------------------------------------------------------
