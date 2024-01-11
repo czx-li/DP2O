@@ -13,7 +13,10 @@ Install our core modules with
 ```
 git clone https://github.com/czx-li/DP2O.git
 ```
-
+Run our code
+```
+$ python main.py
+```
 ## Citation
 
 If you find our work helpful, please cite us with the following BibTex entry:
