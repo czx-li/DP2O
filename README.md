@@ -13,3 +13,18 @@ Install our core modules with
 ```
 git clone https://github.com/czx-li/DP2O.git
 ```
+
+## Citation
+
+If you find our work helpful, please cite us with the following BibTex entry:
+
+```
+@article{li2023dialogue,
+  title={Dialogue for prompting: a policy-gradient-based discrete prompt optimization for few-shot learning},
+  author={Li, Chengzhengxu and Liu, Xiaoming and Wang, Yichen and Li, Duyi and Lan, Yu and Shen, Chao},
+  journal={arXiv preprint arXiv:2308.07272},
+  year={2023}
+}
+```
+
+Link to AAAI 2024 version paper:  
