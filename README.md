@@ -13,9 +13,9 @@ Install our core modules with
 ```
 git clone https://github.com/czx-li/DP2O.git
 ```
-Run our code
+Train and save our modules
 ```
-$ python main.py
+python main.py
 ```
 ## Citation
 
