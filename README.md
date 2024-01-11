@@ -11,5 +11,5 @@ Our codebase requires the following Python and PyTorch versions:
 
 Install our core modules with
 ```
-pip install -e .
+git clone https://github.com/YichenZW/Pacing
 ```
