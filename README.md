@@ -11,5 +11,5 @@ Our codebase requires the following Python and PyTorch versions:
 
 Install our core modules with
 ```
-git clone https://github.com/YichenZW/Pacing
+git clone https://github.com/czx-li/DP2O.git
 ```
