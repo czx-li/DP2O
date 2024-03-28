@@ -30,4 +30,4 @@ If you find our work helpful, please cite us with the following BibTex entry:
 }
 ```
 
-Link to AAAI 2024 version paper:  
+Link to AAAI 2024 version paper: https://ojs.aaai.org/index.php/AAAI/article/view/29809
