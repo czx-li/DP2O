@@ -22,11 +22,14 @@ python main.py
 If you find our work helpful, please cite us with the following BibTex entry:
 
 ```
-@article{li2023dialogue,
-  title={Dialogue for prompting: a policy-gradient-based discrete prompt optimization for few-shot learning},
+@inproceedings{li2024dialogue,
+  title={Dialogue for Prompting: A Policy-Gradient-Based Discrete Prompt Generation for Few-Shot Learning},
   author={Li, Chengzhengxu and Liu, Xiaoming and Wang, Yichen and Li, Duyi and Lan, Yu and Shen, Chao},
-  journal={arXiv preprint arXiv:2308.07272},
-  year={2023}
+  booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
+  volume={38},
+  number={16},
+  pages={18481--18489},
+  year={2024}
 }
 ```
 
